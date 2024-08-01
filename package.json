@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "it creates qr code for given description",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raghul s",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.17",
+    "qr-image": "^3.2.0"
+  }
+}
